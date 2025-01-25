@@ -1,99 +1,64 @@
-# [Project Name] 🎯
+![Screenshot 2025-01-25 181301](https://github.com/user-attachments/assets/0e307033-cb79-40df-aacb-25d535f0f8d1)![Screenshot 2025-01-25 181138](https://github.com/user-attachments/assets/d0dcfada-cb2f-4a1a-a7d6-1b50e25ee501)![Screenshot 2025-01-25 114847](https://github.com/user-attachments/assets/c0aa1f71-9a37-4ac6-81ea-8b921366aa1c)# Farmers Website 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Savies
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Keerthi P - RIT Pampady
+- Member 2: Neha Elizabeth Thomas - RIT Pampady
+- Member 3: Nanditha A Bhakthan - RIT Pampady
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://farmers-website-git-main-nehas-projects-c1c66175.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+An E Commerce website where farmers can sell their agricultural produce and Customers can buy item.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Farmers face many problems and loss because of selling their products through an intermediate person.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Our website offers a platform where farmers can sell their products directly to the end customers.
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
+- HTML,CSS,JS
+- NODE JS,EXPRESS
 
 # Run
-[commands]
+run /backend/index.js using node index.js
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-01-25 181138](https://github.com/user-attachments/assets/03ed6bc3-ba58-41a5-a592-b7ab415bda34)
+Header
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
+![Screenshot 2025-01-25 181246](https://github.com/user-attachments/assets/1f9b42d8-f722-4b2a-bfe7-a584d8061afd)
+Content Section1
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
+![Screenshot 2025-01-25 181301](https://github.com/user-attachments/assets/8a9619bd-8702-4d4e-8507-5fa237260b34)
+Content Section2
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Screenshot 2025-01-25 181315](https://github.com/user-attachments/assets/8b985952-5926-4282-8a6a-2b5deaf08e8c)
+Footer Section
 
-### Project Demo
+## Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+https://github.com/user-attachments/assets/8f8df9dc-73d4-4f08-8a22-6dfebc000453
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
+# Team Contributions
+- Neha Elizabeth Thomas: Front End and Backend
+- Keerthi P: Front end and Backend
 
 ---
 Made with ❤️ at TinkerHub

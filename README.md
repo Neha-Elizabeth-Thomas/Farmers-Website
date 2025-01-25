@@ -1,5 +1,3 @@
-![Screenshot 2025-01-25 181301](https://github.com/user-attachments/assets/0e307033-cb79-40df-aacb-25d535f0f8d1)![Screenshot 2025-01-25 181138](https://github.com/user-attachments/assets/d0dcfada-cb2f-4a1a-a7d6-1b50e25ee501)![Screenshot 2025-01-25 114847](https://github.com/user-attachments/assets/c0aa1f71-9a37-4ac6-81ea-8b921366aa1c)# Farmers Website 🎯
-
 
 ## Basic Details
 ### Team Name: Savies
